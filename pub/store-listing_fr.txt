@@ -1,0 +1,34 @@
+Title: Bus STL Lévis - MonTransit
+----------
+Short description:
+Bus STL de Lévis pour MonTransit.
+Horaires. Nouvelles.
+----------
+What's new in this version?:
+Horaires du 13 mars 2017 au 18 juin 2017.
+Nouvelles de www.stlevis.ca.
+Tweets de @STLevis.
+----------
+Full description:
+Cette application ajoute les informations des autobus de la STL à Lévis à MonTransit.
+
+Cette application contient les horaires et les dernières nouvelles de www.stlevis.ca et @STLevis sur Twitter.
+
+La STL dessert la ville de Lévis au Québec, Canada.
+
+Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
+
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+
+Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
+
+Ces horaires sont générées à partir du fichier GTFS fourni par la Société de transport de Lévis.
+https://www.stlevis.ca/stlevis/donnees-ouvertes
+
+Cette application est gratuite et open-source :
+https://github.com/mtransitapps/ca-levis-stl-bus-android
+
+Cette application n'est pas associée à la Société de transport de Lévis.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles de www.stlevis.ca et Twitter.
