@@ -4,8 +4,10 @@
 1200,0,'Vieux-Lévis',12
 1300,0,'Dorval',13
 1301,0,'St-David',13
+1400,0,'Traverse',14
+1401,0,'Wilfrid-Carrier / Arpents',14
+1500,0,'Galeries Chagnon',15
 1501,0,'Pintendre',15
-1500,0,'Traverse',15
 1901,0,'Breakeyville',19
 1900,0,'Concorde',19
 2201,0,'Bernières (St-Nicolas)',22
@@ -13,16 +15,16 @@
 2300,0,'P+R Des Rivières',23
 2301,0,'Village (St-Nicolas)',23
 2400,0,'P+R Des Rivières',24
-2401,0,'St-Denis',24
+2401,0,'St-Rédempteur',24
 6500,0,'P+R Des Rivières',65
 6501,0,'St-Lambert',65
 13100,0,'JND',131
 13101,0,'St-J-Chrysostome',131
 13500,0,'Collège De Lévis / Marcelle-Mallet',135
-13501,0,'P-Beaumont / A-Ferland',135
+13501,0,'St-J-Chrysostome',135
 14101,0,'Charny',141
 14100,0,'JND',141
-15101,0,'C-Hosp / P-Neige',151
+15101,0,'Charny',151
 15100,0,'JND',151
 16100,0,'JND',161
 16101,0,'St-J-Chrysostome',161
@@ -33,7 +35,7 @@
 17500,0,'Collège De Lévis / Marcelle-Mallet',175
 17501,0,'St-J-Chrysostome',175
 18500,0,'Collège De Lévis / Marcelle-Mallet',185
-18501,0,'St-David / St-Romuald',185
+18501,0,'St-Romuald',185
 22101,0,'Bernières (St-Nicolas)',221
 22100,0,'JND',221
 22200,0,'JND',222
@@ -43,19 +45,19 @@
 23100,0,'JND',231
 23101,0,'Village (St-Nicolas)',231
 23200,0,'JND',232
-23201,0,'Mélèzes / Méthot',232
+23201,0,'Village (St-Nicolas)',232
 23500,0,'Collège De Lévis / Marcelle-Mallet',235
 23501,0,'Village (St-Nicolas)',235
 24100,0,'JND',241
-24101,0,'St-Denis',241
+24101,0,'St-Rédempteur',241
 24200,0,'JND',242
-24201,0,'St-Denis / G-Ducs',242
+24201,0,'St-Rédempteur',242
 24300,0,'JND',243
 24301,0,'St-Rédempteur',243
 24500,0,'Collège De Lévis / Marcelle-Mallet',245
-24501,0,'St-Denis',245
+24501,0,'St-Rédempteur',245
 24600,0,'Collège De Lévis / Marcelle-Mallet',246
-24601,0,'St-Denis / G-Ducs',246
+24601,0,'St-Rédempteur',246
 91500,0,'Collège De Lévis / Marcelle-Mallet',915
 91501,0,'Pintendre',915
 1200101,0,'Lévis',12001
@@ -78,6 +80,8 @@
 2002301,0,'Village (St-Nicolas)',20023
 2002501,0,'Chemin Vire-Crêpes',20025
 2002500,0,'Plante - St-Nicolas',20025
+2006500,0,'PRB STt-Lambert-De-Lz',20065
+2006501,0,'St-Lambert',20065
 10001101,0,'Lauzon',100011
 10001100,0,'Lévis Ctr',100011
 10001300,0,'Dorval',100013
@@ -85,7 +89,6 @@
 50002701,0,'St-J-Chrysostome',500027
 50002700,0,'U.Laval',500027
 50003100,0,'Cégep Lévis-Lauzon',500031
-50003101,0,'St-J-Chrysostome',500031
 50003300,0,'Cégep Garneau',500033
 50003401,0,'St-Romuald',500034
 50003400,0,'U.Laval',500034
