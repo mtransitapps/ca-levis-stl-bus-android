@@ -5,7 +5,7 @@ Bus STL de Lévis pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 28 août 2017 au 3 décembre 2017.
+Horaires du 28 août 2017 au 24 décembre 2017.
 Nouvelles de www.stlevis.ca.
 Tweets de @STLevis.
 ----------
