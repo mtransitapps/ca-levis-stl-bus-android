@@ -20,33 +20,33 @@
 6501,0,'St-Lambert',65
 13100,0,'JND',131
 13101,0,'St-J-Chrysostome - Manic',131
-13500,0,'Collège De Lévis / Marcelle-Mallet',135
+13500,0,'Collège De Lévis / École Marcelle-Mallet',135
 13501,0,'St-J-Chrysostome - Champs / Coulée',135
 14101,0,'Fleuve - Charny',141
 14100,0,'JND',141
 16100,0,'JND',161
-16101,0,'St-J-Chrysostome - Ch Vanier',161
-16500,0,'Collège De Lévis / Marcelle-Mallet',165
+16101,0,'St-J-Chrysostome - Chemin Vanier',161
+16500,0,'Collège De Lévis / École Marcelle-Mallet',165
 16501,0,'St-Romuald / St-J-Chrysostome',165
 17100,0,'JND',171
-17101,0,'St-J-Chrysosotme - De La Prairie',171
-17500,0,'Collège De Lévis / Marcelle-Mallet',175
+17101,0,'St-J-Chrysostome - De La Prairie',171
+17500,0,'Collège De Lévis / École Marcelle-Mallet',175
 17501,0,'St-J-Chrysostome - Manic',175
 18100,0,'JND',181
 18101,0,'St-Romuald',181
-18500,0,'Collège De Lévis / Marcelle-Mallet',185
+18500,0,'Collège De Lévis / École Marcelle-Mallet',185
 18501,0,'St-Romuald',185
-22101,0,'Bernières (St-Nicolas)',221
+22101,0,'Bernières (St-Nicolas) / Presqu''Île',221
 22100,0,'JND',221
 22200,0,'JND',222
 22201,0,'St-Nicolas - Jérôme-Demers',222
-22500,0,'Collège De Lévis / Marcelle-Mallet',225
+22500,0,'Collège De Lévis / École Marcelle-Mallet',225
 22501,0,'St-Nicolas / Presqu''Île',225
 23100,0,'JND',231
 23101,0,'Village (St-Nicolas)',231
 23200,0,'JND',232
-23201,0,'St-Nicolas - Roc-Point',232
-23500,0,'Collège De Lévis / Marcelle-Mallet',235
+23201,0,'St-Nicolas - Roc-Pointe',232
+23500,0,'Collège De Lévis / École Marcelle-Mallet',235
 23501,0,'Village (St-Nicolas)',235
 24100,0,'JND',241
 24101,0,'St-Rédempteur',241
@@ -54,13 +54,13 @@
 24201,0,'St-Rédempteur',242
 24300,0,'JND',243
 24301,0,'St-Nicolas / St-Rédempteur',243
-24500,0,'Collège De Lévis / Marcelle-Mallet',245
+24500,0,'Collège De Lévis / École Marcelle-Mallet',245
 24501,0,'St-Rédempteur',245
-24600,0,'Collège De Lévis / Marcelle-Mallet',246
+24600,0,'Collège De Lévis / École Marcelle-Mallet',246
 24601,0,'St-Rédempteur',246
-91500,0,'Collège De Lévis / Marcelle-Mallet',915
+91500,0,'Collège De Lévis / École Marcelle-Mallet',915
 91501,0,'Pintendre',915
-91600,0,'Collège De Lévis / Marcelle-Mallet',916
+91600,0,'Collège De Lévis / École Marcelle-Mallet',916
 91601,0,'Massenet / Provence / Pintendre',916
 1200101,0,'Lévis',12001
 1200100,0,'St-Étienne',12001
@@ -68,10 +68,12 @@
 1200200,0,'U.Laval',12002
 1200301,0,'St-Étienne',12003
 1200300,0,'U.Laval',12003
+2000101,0,'Fougères',20001
+2000100,0,'Îles',20001
 2000201,0,'Riv. Etchemin',20002
 2000200,0,'Traverse',20002
 2001101,0,'Domaine-Des-Pêches',20011
-2001100,0,'St-Joseph / G-Couture',20011
+2001100,0,'St-Joseph / Guillaume-Couture',20011
 2001601,0,'Breakeyville',20016
 2001600,0,'St-J-Chrysostome',20016
 2002300,0,'PRB Des Rivières',20023
@@ -79,7 +81,7 @@
 2002501,0,'Chemin Vire-Crêpes',20025
 2002500,0,'Plante',20025
 2006500,0,'PRB St-Lambert',20065
-2006501,0,'Éperviers',20065
+2006501,0,'Parc / Éperviers',20065
 10001101,0,'Lauzon',100011
 10001100,0,'Lévis Ctr',100011
 10001300,0,'Dorval',100013
@@ -91,7 +93,7 @@
 50003401,0,'St-Romuald',500034
 50003400,0,'U.Laval',500034
 50003500,0,'U.Laval',500035
-50003501,0,'Églises / C-Hosp',500035
+50003501,0,'Églises / Ctr-Hospitalier',500035
 50004100,0,'Cégep Lévis-Lauzon',500041
 50004301,0,'PRB Des Rivières',500043
 50004300,0,'Rive-Nord',500043
@@ -102,7 +104,7 @@
 180003501,0,'Charny',1800035
 180003500,0,'Concorde',1800035
 905031700,0,'St-Paul / A-Martin',9050317
-905031701,0,'Églises / C-Hosp',9050317
+905031701,0,'Églises / Ctr-Hospitalier',9050317
 905121701,0,'Lévis Ctr',9051217
 905121700,0,'St-Paul / A-Martin',9051217
 905151701,0,'PRB Des Rivières',9051517
