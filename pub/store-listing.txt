@@ -5,7 +5,7 @@ Lévis STL Bus for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from January 7, 2019 to June 16, 2019.
+Schedule from March 9, 2019 to June 16, 2019.
 News from www.stlevis.ca.
 Tweets from @STLevis.
 ----------
