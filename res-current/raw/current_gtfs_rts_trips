@@ -6,7 +6,7 @@
 1300,0,'Vieux-Lévis',13
 1401,0,'Lévis Ctr',14
 1400,0,'Traverse',14
-1500,0,'Lévis Ctr',15
+1500,0,'Galeries Chagnon',15
 1501,0,'Pintendre',15
 1901,0,'Breakeyville',19
 1900,0,'Concorde',19
@@ -16,6 +16,8 @@
 2301,0,'Village (St-Nicolas)',23
 2400,0,'PRB Des Rivières',24
 2401,0,'St-Rédempteur',24
+3201,0,'Fleuve / Côte Rouge',32
+3200,0,'Sault',32
 6500,0,'PRB Des Rivières',65
 6501,0,'St-Lambert',65
 13100,0,'JND',131
@@ -86,15 +88,16 @@
 10001100,0,'Lévis Ctr',100011
 10001300,0,'Dorval',100013
 10001301,0,'St-David',100013
-50002701,0,'St-J-Chrysostome',500027
-50002700,0,'U.Laval',500027
-50003100,0,'Cégep Lévis-Lauzon',500031
-50003300,0,'Cégep Garneau',500033
 50003401,0,'St-Romuald',500034
 50003400,0,'U.Laval',500034
-50003501,0,'Charny',500035
-50003500,0,'U.Laval',500035
-50004100,0,'Cégep Lévis-Lauzon',500041
+50003601,0,'Charny',500036
+50003600,0,'U.Laval',500036
+50003701,0,'St-J-Chrysostome Via Taniata',500037
+50003700,0,'U.Laval',500037
+50003801,0,'St-J-Chrysostome Via Vanier',500038
+50003800,0,'U.Laval',500038
+50004200,0,'Cégep Garneau',500042
+50004201,0,'Lévis Ctr',500042
 50004301,0,'PRB Des Rivières',500043
 50004300,0,'Rive-Nord',500043
 50006001,0,'PRB Des Rivières',500060
