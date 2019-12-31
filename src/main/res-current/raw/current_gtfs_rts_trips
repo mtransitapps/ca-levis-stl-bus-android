@@ -22,6 +22,8 @@
 11500,0,'Lévis Ctr',115
 12501,0,'Lauzon',125
 12500,0,'Lévis Ctr',125
+12600,0,'Lévis Ctr',126
+12601,0,'Étienne-Dallaire / Massenet',126
 13101,0,'St-David / Pintendre',131
 13100,0,'St-Romuald - JND',131
 13500,0,'Lévis Ctr',135
@@ -33,7 +35,7 @@
 15500,0,'Lévis Ctr',155
 15501,0,'Pintendre',155
 15600,0,'Lévis Ctr',156
-15601,0,'Pintendre Via Massenet',156
+15601,0,'Pintendre',156
 22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
 22201,0,'St-Nicolas',222
@@ -50,7 +52,7 @@
 24101,0,'St-Rédempteur',241
 24200,0,'St-Romuald - JND',242
 24201,0,'St-Rédempteur',242
-24301,0,'Presqu''Île / St-Nicolas / St-Rédempteur',243
+24301,0,'Presqu''Île / St-Nicolas',243
 24300,0,'St-Romuald - JND',243
 24500,0,'Lévis Ctr',245
 24501,0,'St-Rédempteur',245
@@ -59,7 +61,7 @@
 32500,0,'Lévis Ctr',325
 32501,0,'St-Romuald',325
 34500,0,'Lévis Ctr',345
-34501,0,'St-Romuald / Presqu''Île / Québec',345
+34501,0,'U.Laval',345
 35101,0,'Charny',351
 35100,0,'St-Romuald - JND',351
 35501,0,'Charny',355
@@ -98,6 +100,8 @@
 2002500,0,'St-Nicolas',20025
 2006500,0,'PRB St-Lambert',20065
 2006501,0,'Parc / Éperviers',20065
+2006600,0,'Breakeyville',20066
+2006601,0,'St-Lambert',20066
 10001101,0,'Lauzon',100011
 10001100,0,'Lévis Ctr',100011
 50003401,0,'St-Romuald',500034
@@ -109,9 +113,9 @@
 50003801,0,'St-J-Chrysostome Via Vanier',500038
 50003800,0,'U.Laval',500038
 50004200,0,'Cégep Garneau',500042
-50004201,0,'Lévis Ctr',500042
+50004201,0,'Lévis Ctr / Galeries Chagnon',500042
 50004300,0,'Cégep Garneau',500043
-50004301,0,'PRB Des Rivières',500043
+50004301,0,'PRB Des Rivières / Concorde',500043
 50006000,0,'Marly',500060
 50006001,0,'PRB Des Rivières',500060
 180002700,0,'St-J-Chrysostome',1800027
