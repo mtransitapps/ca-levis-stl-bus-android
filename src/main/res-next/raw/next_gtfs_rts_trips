@@ -16,6 +16,70 @@
 3200,0,'Sault',32
 6500,0,'PRB Des Rivières',65
 6501,0,'St-Lambert',65
+11100,0,'Pointe-Lévy / JND',111
+11101,0,'St-Romuald / Lauzon',111
+11501,0,'Lauzon',115
+11500,0,'Lévis Ctr',115
+12501,0,'Lauzon',125
+12500,0,'Lévis Ctr',125
+12600,0,'Lévis Ctr',126
+12601,0,'Étienne-Dallaire / Massenet',126
+13101,0,'St-David / Pintendre',131
+13100,0,'St-Romuald - JND',131
+13500,0,'Lévis Ctr',135
+13501,0,'St-David',135
+13600,0,'Lévis Ctr',136
+13601,0,'St-David',136
+13700,0,'Lévis Ctr',137
+13701,0,'St-David / Hadlow',137
+15500,0,'Lévis Ctr',155
+15501,0,'Pintendre',155
+15600,0,'Lévis Ctr',156
+15601,0,'Pintendre',156
+22101,0,'Bernières (St-Nicolas)',221
+22100,0,'St-Romuald - JND',221
+22201,0,'St-Nicolas',222
+22200,0,'St-Romuald - JND',222
+22500,0,'Lévis Ctr',225
+22501,0,'St-Nicolas',225
+23100,0,'St-Romuald - JND',231
+23101,0,'Village (St-Nicolas)',231
+23201,0,'St-Nicolas - Roc-Pointe',232
+23200,0,'St-Romuald - JND',232
+23500,0,'Lévis Ctr',235
+23501,0,'Village (St-Nicolas)',235
+24100,0,'St-Romuald - JND',241
+24101,0,'St-Rédempteur',241
+24200,0,'St-Romuald - JND',242
+24201,0,'St-Rédempteur',242
+24301,0,'Presqu''Île / St-Nicolas',243
+24300,0,'St-Romuald - JND',243
+24500,0,'Lévis Ctr',245
+24501,0,'St-Rédempteur',245
+24600,0,'Lévis Ctr',246
+24601,0,'St-Rédempteur',246
+32500,0,'Lévis Ctr',325
+32501,0,'St-Romuald',325
+34500,0,'Lévis Ctr',345
+34501,0,'U.Laval',345
+35101,0,'Charny',351
+35100,0,'St-Romuald - JND',351
+35501,0,'Charny',355
+35500,0,'Lévis Ctr',355
+37101,0,'St-J-Chrysostome',371
+37100,0,'St-Romuald - JND',371
+37500,0,'Lévis Ctr',375
+37501,0,'St-J-Chrysostome',375
+38101,0,'St-J-Chrysostome',381
+38100,0,'St-Romuald - JND',381
+38500,0,'Lévis Ctr',385
+38501,0,'St-J-Chrysostome',385
+38600,0,'Lévis Ctr',386
+38601,0,'St-J-Chrysostome',386
+39101,0,'St-J-Chrysostome',391
+39100,0,'St-Romuald - JND',391
+39500,0,'Lévis Ctr',395
+39501,0,'St-J-Chrysostome',395
 1200101,0,'Lagueux',12001
 1200100,0,'Traverse',12001
 1200201,0,'Traverse',12002
