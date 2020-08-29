@@ -97,7 +97,7 @@
 1200301,0,'Lagueux',12003
 1200300,0,'Ste-Foy Ctr',12003
 2000101,0,'Sureaux',20001
-2000100,0,'Îles',20001
+2000100,0,'Îles / Gravel (PM)',20001
 2000201,0,'Riv. Etchemin',20002
 2000200,0,'Traverse',20002
 2001101,0,'Domaine-Des-Pêches',20011
@@ -106,8 +106,6 @@
 2001501,0,'Pintendre',20015
 2002201,0,'Bernières (St-Nicolas)',20022
 2002200,0,'PRB Des Rivières',20022
-2002300,0,'PRB Des Rivières',20023
-2002301,0,'Village (St-Nicolas)',20023
 2003100,0,'Breakeyville',20031
 2003101,0,'Vieux Chemin',20031
 2006500,0,'PRB St-Lambert',20065
