@@ -1,0 +1,147 @@
+1101,0,'Lauzon',11
+1100,0,'Lévis Ctr',11
+1301,0,'St-David',13
+1300,0,'Traverse',13
+1401,0,'Lévis Ctr',14
+1400,0,'Traverse',14
+1500,0,'Galeries Chagnon',15
+1501,0,'Pintendre',15
+2201,0,'Bernières (St-Nicolas)',22
+2200,0,'Concorde',22
+2300,0,'Concorde',23
+2301,0,'Village (St-Nicolas)',23
+2400,0,'PRB Des Rivières',24
+2401,0,'St-Rédempteur',24
+3101,0,'Breakeyville',31
+3100,0,'Concorde',31
+3201,0,'Fleuve / Côte Rouge',32
+3200,0,'Sault',32
+3400,0,'Concorde',34
+3401,0,'St-Romuald',34
+3501,0,'Charny',35
+3600,0,'Charny',36
+3701,0,'St-J-Chrysostome',37
+3800,0,'St-J-Chrysostome',38
+3901,0,'Charny / St-J-Chrysostome',39
+3900,0,'Concorde',39
+6500,0,'PRB Des Rivières',65
+6501,0,'St-Lambert',65
+11100,0,'Pointe-Lévy / JND',111
+11101,0,'St-Romuald / Lauzon',111
+11501,0,'Lauzon',115
+11500,0,'Vieux-Lévis',115
+12501,0,'Lauzon',125
+12500,0,'Vieux-Lévis',125
+12600,0,'Vieux-Lévis',126
+12601,0,'Étienne-Dallaire / Massenet',126
+13101,0,'St-David / Pintendre',131
+13100,0,'St-Romuald - JND',131
+13501,0,'St-David',135
+13500,0,'Vieux-Lévis',135
+13601,0,'St-David',136
+13600,0,'Vieux-Lévis',136
+13701,0,'St-David / Hadlow',137
+13700,0,'Vieux-Lévis',137
+15501,0,'Pintendre',155
+15500,0,'Vieux-Lévis',155
+15601,0,'Pintendre',156
+15600,0,'Vieux-Lévis',156
+15801,0,'Pintendre',158
+15800,0,'École Pointe-Lévy',158
+22000,0,'Connexion Lévis Ctr',220
+22001,0,'St-Nicolas - Plante',220
+22101,0,'Bernières (St-Nicolas)',221
+22100,0,'St-Romuald - JND',221
+22201,0,'St-Nicolas',222
+22200,0,'St-Romuald - JND',222
+22301,0,'Presqu''Île / St-Nicolas',223
+22300,0,'St-Romuald - JND',223
+22501,0,'Bernières (St-Nicolas)',225
+22500,0,'UQAR / Lévis Ctr',225
+23100,0,'St-Romuald - JND',231
+23101,0,'Village (St-Nicolas)',231
+23201,0,'St-Nicolas - Roc-Pointe',232
+23200,0,'St-Romuald - JND',232
+23500,0,'UQAR / Lévis Ctr',235
+23501,0,'Village (St-Nicolas)',235
+24100,0,'St-Romuald - JND',241
+24101,0,'St-Rédempteur',241
+24200,0,'St-Romuald - JND',242
+24201,0,'St-Rédempteur',242
+24501,0,'St-Rédempteur',245
+24500,0,'UQAR / Lévis Ctr',245
+24601,0,'St-Rédempteur',246
+24600,0,'UQAR / Lévis Ctr',246
+31101,0,'Breakeyville',311
+31100,0,'St-Romuald - JND',311
+32501,0,'St-Romuald',325
+32500,0,'UQAR / Lévis Ctr',325
+34501,0,'St-Romuald / Presqu''Île / Québec',345
+34500,0,'UQAR / Lévis Ctr',345
+35101,0,'Charny',351
+35100,0,'St-Romuald - JND',351
+35501,0,'Charny',355
+35500,0,'UQAR / Lévis Ctr',355
+37501,0,'St-J-Chrysostome',375
+37500,0,'UQAR / Lévis Ctr',375
+38101,0,'St-J-Chrysostome',381
+38100,0,'St-Romuald - JND',381
+38501,0,'St-J-Chrysostome',385
+38500,0,'UQAR / Lévis Ctr',385
+39101,0,'St-J-Chrysostome',391
+39100,0,'St-Romuald - JND',391
+39501,0,'St-J-Chrysostome',395
+39500,0,'UQAR / Lévis Ctr',395
+1200100,0,'Concorde',12001
+1200101,0,'Lagueux',12001
+1200200,0,'Ste-Foy Ctr',12002
+1200201,0,'Traverse',12002
+1200301,0,'Lagueux',12003
+1200300,0,'Ste-Foy Ctr',12003
+2000101,0,'Sureaux',20001
+2000100,0,'Îles / Gravel (PM)',20001
+2000201,0,'Riv. Etchemin',20002
+2000200,0,'Traverse',20002
+2001100,0,'Connexion Lévis Ctr',20011
+2001101,0,'Domaine-Des-Pêches',20011
+2001301,0,'St-David',20013
+2001300,0,'Traverse',20013
+2001500,0,'Galeries Chagnon',20015
+2001501,0,'Pintendre',20015
+2002201,0,'Bernières (St-Nicolas)',20022
+2002200,0,'PRB Des Rivières',20022
+2002400,0,'Bernières (St-Nicolas)',20024
+2002401,0,'St-Rédempteur',20024
+2003101,0,'Breakeyville',20031
+2003100,0,'Concorde',20031
+2003300,0,'Breakeyville',20033
+2003301,0,'Vieux Chemin',20033
+2003400,0,'Concorde',20034
+2003401,0,'St-Romuald',20034
+2006500,0,'PRB St-Lambert',20065
+2006501,0,'Parc / Éperviers',20065
+2006600,0,'Breakeyville',20066
+2006601,0,'St-Lambert',20066
+10001101,0,'Parc Ind. De Lauzon',100011
+10001100,0,'Traverse',100011
+50003401,0,'St-Romuald',500034
+50003400,0,'Ste-Foy Ctr',500034
+50003601,0,'Charny',500036
+50003600,0,'Ste-Foy Ctr',500036
+50003701,0,'St-J-Chrysostome',500037
+50003700,0,'Ste-Foy Ctr',500037
+50003801,0,'St-J-Chrysostome',500038
+50003800,0,'Ste-Foy Ctr',500038
+50004200,0,'Cégep Garneau',500042
+50004201,0,'Lévis Ctr / Galeries Chagnon',500042
+50004300,0,'Cégep Garneau',500043
+50004301,0,'PRB Des Rivières / Concorde',500043
+50006000,0,'Marly',500060
+50006001,0,'PRB Des Rivières',500060
+905031700,0,'Colline Parlementaire / Gare Du Palais',9050317
+905121700,0,'Colline Parlementaire / Gare Du Palais',9051217
+905121701,0,'Lévis Ctr / Lauzon',9051217
+905151700,0,'Colline Parlementaire',9051517
+905151701,0,'PRB Des Rivières',9051517
+905191700,0,'Colline Parlementaire / Gare Du Palais',9051917
+905191701,0,'St-J-Chrysostome',9051917
