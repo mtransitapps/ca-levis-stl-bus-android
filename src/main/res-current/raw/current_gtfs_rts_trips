@@ -1,5 +1,7 @@
 1101,0,'Lauzon',11
 1100,0,'Lévis Ctr',11
+1301,0,'St-David',13
+1300,0,'Traverse',13
 1401,0,'Lévis Ctr',14
 1400,0,'Traverse',14
 1500,0,'Galeries Chagnon',15
@@ -46,8 +48,8 @@
 15600,0,'Vieux-Lévis',156
 15801,0,'Pintendre',158
 15800,0,'École Pointe-Lévy',158
-15901,0,'Pintendre',159
-15900,0,'École Pointe-Lévy',159
+22000,0,'Connexion Lévis Ctr',220
+22001,0,'St-Nicolas - Plante',220
 22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
 22201,0,'St-Nicolas',222
@@ -100,14 +102,22 @@
 2000100,0,'Îles / Gravel (PM)',20001
 2000201,0,'Riv. Etchemin',20002
 2000200,0,'Traverse',20002
+2001100,0,'Cégep De Lévis',20011
 2001101,0,'Domaine-Des-Pêches',20011
-2001100,0,'St-Joseph / Guillaume-Couture',20011
+2001301,0,'St-David',20013
+2001300,0,'Traverse',20013
 2001500,0,'Galeries Chagnon',20015
 2001501,0,'Pintendre',20015
 2002201,0,'Bernières (St-Nicolas)',20022
 2002200,0,'PRB Des Rivières',20022
-2003100,0,'Breakeyville',20031
-2003101,0,'Vieux Chemin',20031
+2002400,0,'Bernières (St-Nicolas)',20024
+2002401,0,'St-Rédempteur',20024
+2003101,0,'Breakeyville',20031
+2003100,0,'Concorde',20031
+2003300,0,'Breakeyville',20033
+2003301,0,'Vieux Chemin',20033
+2003400,0,'Concorde',20034
+2003401,0,'St-Romuald',20034
 2006500,0,'PRB St-Lambert',20065
 2006501,0,'Parc / Éperviers',20065
 2006600,0,'Breakeyville',20066
@@ -128,7 +138,6 @@
 50004301,0,'PRB Des Rivières / Concorde',500043
 50006000,0,'Marly',500060
 50006001,0,'PRB Des Rivières',500060
-905031701,0,'Charny',9050317
 905031700,0,'Colline Parlementaire / Gare Du Palais',9050317
 905121700,0,'Colline Parlementaire / Gare Du Palais',9051217
 905121701,0,'Lévis Ctr / Lauzon',9051217
