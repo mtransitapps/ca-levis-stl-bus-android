@@ -1,8 +1,8 @@
 1100,0,'Traverse / Lauzon / UQAR / Hôtel-Dieu De Lévis',11
 1301,0,'St-David',13
 1300,0,'Traverse',13
-1401,0,'Lévis Ctr',14
 1400,0,'Traverse',14
+1401,0,'UQAR',14
 1500,0,'Galeries Chagnon / Pte-Lévy',15
 1501,0,'Pintendre',15
 2201,0,'Bernières (St-Nicolas)',22
@@ -11,8 +11,7 @@
 2301,0,'Village (St-Nicolas)',23
 2400,0,'PRB Des Rivières',24
 2401,0,'St-Rédempteur',24
-3101,0,'Breakeyville',31
-3100,0,'Concorde',31
+3101,0,'Breakeyville / Concorde',31
 3201,0,'Fleuve / Côte Rouge',32
 3200,0,'Sault',32
 3400,0,'Concorde',34
@@ -51,7 +50,7 @@
 22001,0,'St-Nicolas - Plante',220
 22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
-22201,0,'St-Nicolas',222
+22201,0,'Plante',222
 22200,0,'St-Romuald - JND',222
 22301,0,'Presqu''Île / St-Nicolas',223
 22300,0,'St-Romuald - JND',223
@@ -109,10 +108,9 @@
 2001501,0,'Pintendre',20015
 2002201,0,'Bernières (St-Nicolas) / PRB Des Rivières',20022
 2002200,0,'PRB Des Rivières / Parc Ind De Bernières-Nord',20022
-2002400,0,'Bernières (St-Nicolas)',20024
+2002400,0,'Plante',20024
 2002401,0,'St-Rédempteur',20024
-2003101,0,'Breakeyville',20031
-2003100,0,'Concorde',20031
+2003101,0,'Breakeyville / Concorde',20031
 2003300,0,'Breakeyville',20033
 2003301,0,'Vieux Chemin',20033
 2003400,0,'Concorde',20034
