@@ -1,10 +1,8 @@
 1100,0,'Traverse / Lauzon / UQAR / Hôtel-Dieu De Lévis',11
 1301,0,'St-David',13
 1300,0,'Traverse',13
-1400,0,'Traverse',14
-1401,0,'UQAR',14
-1500,0,'Galeries Chagnon / Pte-Lévy',15
 1501,0,'Pintendre',15
+1500,0,'Traverse',15
 2201,0,'Bernières (St-Nicolas)',22
 2200,0,'Concorde',22
 2300,0,'Concorde',23
@@ -46,11 +44,9 @@
 15600,0,'Vieux-Lévis',156
 15801,0,'Pintendre',158
 15800,0,'École Pte-Lévy',158
-22000,0,'Connexion Lévis Ctr',220
-22001,0,'St-Nicolas - Plante',220
 22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
-22201,0,'Plante',222
+22201,0,'St-Nicolas',222
 22200,0,'St-Romuald - JND',222
 22301,0,'Presqu''Île / St-Nicolas',223
 22300,0,'St-Romuald - JND',223
@@ -120,6 +116,8 @@
 2006600,0,'Breakeyville',20066
 2006601,0,'St-Lambert',20066
 10001101,0,'Traverse / Hôtel-Dieu De Lévis / UQAR / Lauzon',100011
+50002401,0,'St-Rédempteur',500024
+50002400,0,'Ste-Foy Ctr',500024
 50003401,0,'St-Romuald',500034
 50003400,0,'Ste-Foy Ctr',500034
 50003601,0,'Charny',500036
@@ -134,10 +132,10 @@
 50004301,0,'PRB Des Rivières / Concorde',500043
 50006000,0,'Marly',500060
 50006001,0,'PRB Des Rivières',500060
-905031700,0,'Colline Parlementaire / Gare Du Palais',9050317
-905121700,0,'Colline Parlementaire / Gare Du Palais',9051217
+905031700,0,'Colline Parlementaire',9050317
+905121700,0,'Colline Parlementaire',9051217
 905121701,0,'Lévis Ctr / Lauzon',9051217
-905151700,0,'Colline Parlementaire / Gare Du Palais',9051517
+905151700,0,'Colline Parlementaire',9051517
 905151701,0,'PRB Des Rivières / St-Étienne-De-Lauzon',9051517
-905191700,0,'Colline Parlementaire / Gare Du Palais',9051917
+905191700,0,'Colline Parlementaire',9051917
 905191701,0,'St-J-Chrysostome',9051917
