@@ -97,50 +97,21 @@
 39100,0,'St-Romuald - JND',391
 39501,0,'St-J-Chrysostome',395
 39500,0,'UQAR / Lévis Ctr',395
-1200101,0,'Lagueux',12001
-1200100,0,'Parc Ind De Lauzon',12001
-1200200,0,'Ste-Foy Ctr',12002
-1200201,0,'Traverse',12002
-1200301,0,'Lagueux',12003
-1200300,0,'Ste-Foy Ctr',12003
-2000101,0,'AM',20001
-2000100,0,'PM',20001
-2000201,0,'Riv Etchemin',20002
-2000200,0,'Traverse',20002
-2001100,0,'Cégep De Lévis',20011
-2001101,0,'Domaine-Des-Pêches',20011
-2001301,0,'St-David',20013
-2001300,0,'Traverse',20013
-2001500,0,'Galeries Chagnon',20015
-2001501,0,'Pintendre',20015
-2002201,0,'Bernières (St-Nicolas) / PRB Des Rivières',20022
-2002200,0,'PRB Des Rivières / Parc Ind De Bernières-Nord',20022
-2002400,0,'Plante',20024
-2002401,0,'St-Rédempteur',20024
-2003101,0,'Breakeyville / Concorde',20031
-2003300,0,'Breakeyville',20033
-2003301,0,'Vieux Chemin',20033
-2003400,0,'Concorde',20034
-2003401,0,'St-Romuald',20034
-2006500,0,'PRB St-Lambert',20065
-2006501,0,'Parc / Éperviers',20065
-2006600,0,'Breakeyville',20066
-2006601,0,'St-Lambert',20066
-10001101,0,'Traverse / Hôtel-Dieu De Lévis / UQAR / Lauzon',100011
-50003401,0,'St-Romuald',500034
-50003400,0,'Ste-Foy Ctr',500034
-50003601,0,'Charny',500036
-50003600,0,'Ste-Foy Ctr',500036
-50003701,0,'St-J-Chrysostome',500037
-50003700,0,'Ste-Foy Ctr',500037
-50003801,0,'St-J-Chrysostome',500038
-50003800,0,'Ste-Foy Ctr',500038
-50004200,0,'Cégep Garneau',500042
-50004201,0,'Lévis Ctr / Galeries Chagnon',500042
-50004300,0,'Cégep Garneau',500043
-50004301,0,'PRB Des Rivières / Concorde',500043
-50006000,0,'Marly',500060
-50006001,0,'PRB Des Rivières',500060
+1001101,0,'Traverse / Hôtel-Dieu De Lévis / UQAR / Lauzon',10011
+5003401,0,'St-Romuald',50034
+5003400,0,'Ste-Foy Ctr',50034
+5003601,0,'Charny',50036
+5003600,0,'Ste-Foy Ctr',50036
+5003701,0,'St-J-Chrysostome',50037
+5003700,0,'Ste-Foy Ctr',50037
+5003801,0,'St-J-Chrysostome',50038
+5003800,0,'Ste-Foy Ctr',50038
+5004200,0,'Cégep Garneau',50042
+5004201,0,'Lévis Ctr / Galeries Chagnon',50042
+5004300,0,'Cégep Garneau',50043
+5004301,0,'PRB Des Rivières / Concorde',50043
+5006000,0,'Marly',50060
+5006001,0,'PRB Des Rivières',50060
 905031700,0,'Colline Parlementaire / Gare Du Palais',9050317
 905121700,0,'Colline Parlementaire / Gare Du Palais',9051217
 905121701,0,'Lévis Ctr / Lauzon',9051217
@@ -148,3 +119,32 @@
 905151701,0,'PRB Des Rivières / St-Étienne-De-Lauzon',9051517
 905191700,0,'Colline Parlementaire / Gare Du Palais',9051917
 905191701,0,'St-J-Chrysostome',9051917
+1200000101,0,'Lagueux',12000001
+1200000100,0,'Parc Ind De Lauzon',12000001
+1200000200,0,'Ste-Foy Ctr',12000002
+1200000201,0,'Traverse',12000002
+1200000301,0,'Lagueux',12000003
+1200000300,0,'Ste-Foy Ctr',12000003
+2000000101,0,'AM',20000001
+2000000100,0,'PM',20000001
+2000000201,0,'Riv Etchemin',20000002
+2000000200,0,'Traverse',20000002
+2000001100,0,'Cégep De Lévis',20000011
+2000001101,0,'Domaine-Des-Pêches',20000011
+2000001301,0,'St-David',20000013
+2000001300,0,'Traverse',20000013
+2000001500,0,'Galeries Chagnon',20000015
+2000001501,0,'Pintendre',20000015
+2000002201,0,'Bernières (St-Nicolas) / PRB Des Rivières',20000022
+2000002200,0,'PRB Des Rivières / Parc Ind De Bernières-Nord',20000022
+2000002400,0,'Plante',20000024
+2000002401,0,'St-Rédempteur',20000024
+2000003101,0,'Breakeyville / Concorde',20000031
+2000003300,0,'Breakeyville',20000033
+2000003301,0,'Vieux Chemin',20000033
+2000003400,0,'Concorde',20000034
+2000003401,0,'St-Romuald',20000034
+2000006500,0,'PRB St-Lambert',20000065
+2000006501,0,'Parc / Éperviers',20000065
+2000006600,0,'Breakeyville',20000066
+2000006601,0,'St-Lambert',20000066
