@@ -10,8 +10,6 @@
 2400,0,'PRB Des Rivières',24
 2401,0,'St-Rédempteur',24
 3101,0,'Breakeyville / Concorde',31
-3201,0,'Fleuve / Côte Rouge',32
-3200,0,'Sault',32
 3400,0,'Concorde',34
 3401,0,'St-Romuald',34
 3501,0,'Charny',35
@@ -49,19 +47,17 @@
 15600,0,'Vieux-Lévis',156
 15801,0,'Pintendre',158
 15800,0,'École Pte-Lévy',158
-22000,0,'Connexion Lévis Ctr',220
-22001,0,'St-Nicolas - Plante',220
 22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
-22201,0,'Presqu Île / St-Nicolas / St-Rédempteur',222
+22201,0,'St-Nicolas / St-Rédempteur',222
 22200,0,'St-Romuald - JND',222
-22301,0,'St-Nicolas',223
+22301,0,'Presqu''Île / St-Nicolas',223
 22300,0,'St-Romuald - JND',223
 22501,0,'Bernières (St-Nicolas)',225
 22500,0,'UQAR / Lévis Ctr',225
 23100,0,'St-Romuald - JND',231
 23101,0,'Village (St-Nicolas)',231
-23201,0,'St-Nicolas - Roc-Pte',232
+23201,0,'Presqu''Île / St-Nicolas - Roc-Pte',232
 23200,0,'St-Romuald - JND',232
 23301,0,'St-Nicolas',233
 23300,0,'St-Romuald - JND',233
@@ -110,14 +106,12 @@
 5004201,0,'Lévis Ctr / Galeries Chagnon',50042
 5004300,0,'Cégep Garneau',50043
 5004301,0,'PRB Des Rivières / Concorde',50043
-5006000,0,'Marly',50060
-5006001,0,'PRB Des Rivières',50060
-905031700,0,'Colline Parlementaire / Gare Du Palais',9050317
-905121700,0,'Colline Parlementaire / Gare Du Palais',9051217
+905031700,0,'Colline Parlementaire',9050317
+905121700,0,'Colline Parlementaire',9051217
 905121701,0,'Lévis Ctr / Lauzon',9051217
-905151700,0,'Colline Parlementaire / Gare Du Palais',9051517
+905151700,0,'Colline Parlementaire',9051517
 905151701,0,'PRB Des Rivières / St-Étienne-De-Lauzon',9051517
-905191700,0,'Colline Parlementaire / Gare Du Palais',9051917
+905191700,0,'Colline Parlementaire',9051917
 905191701,0,'St-J-Chrysostome',9051917
 1200000101,0,'Lagueux',12000001
 1200000100,0,'Parc Ind De Lauzon',12000001
@@ -137,7 +131,7 @@
 2000001501,0,'Pintendre',20000015
 2000002201,0,'Bernières (St-Nicolas) / PRB Des Rivières',20000022
 2000002200,0,'PRB Des Rivières / Parc Ind De Bernières-Nord',20000022
-2000002400,0,'Plante',20000024
+2000002400,0,'Bernières (St-Nicolas)',20000024
 2000002401,0,'St-Rédempteur',20000024
 2000003101,0,'Breakeyville / Concorde',20000031
 2000003300,0,'Breakeyville',20000033
