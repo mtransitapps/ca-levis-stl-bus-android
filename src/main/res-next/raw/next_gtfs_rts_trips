@@ -3,7 +3,7 @@
 1300,0,'Traverse',13
 1501,0,'Pintendre',15
 1500,0,'Traverse',15
-2201,0,'Bernières (St-Nicolas)',22
+2201,0,'Bernières (St-Nicolas) (Pte PM)',22
 2200,0,'Concorde',22
 2300,0,'Concorde',23
 2301,0,'Village (St-Nicolas)',23
@@ -88,14 +88,8 @@
 2000000100,0,'PM',20000001
 2000000201,0,'Riv Etchemin',20000002
 2000000200,0,'Traverse',20000002
-2000001301,0,'St-David',20000013
-2000001300,0,'Traverse',20000013
 2000001500,0,'Galeries Chagnon',20000015
 2000001501,0,'Pintendre',20000015
-2000002201,0,'Bernières (St-Nicolas) / PRB Des Rivières',20000022
-2000002200,0,'PRB Des Rivières / Parc Ind De Bernières-Nord',20000022
-2000002400,0,'Bernières (St-Nicolas)',20000024
-2000002401,0,'St-Rédempteur',20000024
 2000003101,0,'Breakeyville / Concorde',20000031
 2000003300,0,'Breakeyville',20000033
 2000003301,0,'Vieux Chemin',20000033
