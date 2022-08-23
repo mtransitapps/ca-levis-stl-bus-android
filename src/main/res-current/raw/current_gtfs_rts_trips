@@ -3,7 +3,7 @@
 1300,0,'Traverse',13
 1501,0,'Pintendre',15
 1500,0,'Traverse',15
-2201,0,'Bernières (St-Nicolas) (Pte PM)',22
+2201,0,'Bernières (St-Nicolas)',22
 2200,0,'Concorde',22
 2300,0,'Concorde',23
 2301,0,'Village (St-Nicolas)',23
@@ -21,42 +21,77 @@
 6500,0,'PRB Des Rivières',65
 6501,0,'St-Lambert',65
 11100,0,'Pte-Lévy / JND',111
+11101,0,'St-Romuald / Lauzon',111
+11501,0,'Lauzon',115
 11500,0,'Vieux-Lévis',115
+11901,0,'Lauzon',119
 11900,0,'École Pte-Lévy',119
+12501,0,'Lauzon',125
 12500,0,'Vieux-Lévis',125
 12600,0,'Vieux-Lévis',126
+12601,0,'Étienne-Dallaire / Massenet',126
+12701,0,'Lauzon',127
 12700,0,'Vieux-Lévis',127
+12901,0,'Lauzon',129
 12900,0,'École Pte-Lévy',129
+13101,0,'St-David / Pintendre',131
 13100,0,'St-Romuald - JND',131
 13500,0,'Vieux-Lévis',135
+13601,0,'St-David',136
 13600,0,'Vieux-Lévis',136
 13700,0,'École Pte-Lévy',137
+13901,0,'St-David',139
 13900,0,'École Pte-Lévy',139
 15500,0,'Vieux-Lévis',155
+15601,0,'Pintendre',156
 15600,0,'Vieux-Lévis',156
+15801,0,'Pintendre',158
 15800,0,'École Pte-Lévy',158
+22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
+22201,0,'St-Nicolas / St-Rédempteur',222
 22200,0,'St-Romuald - JND',222
+22301,0,'Presqu''Île / St-Nicolas',223
 22300,0,'St-Romuald - JND',223
+22501,0,'Bernières (St-Nicolas)',225
 22500,0,'UQAR / Lévis Ctr',225
 23100,0,'St-Romuald - JND',231
+23101,0,'Village (St-Nicolas)',231
+23201,0,'Presqu''Île / St-Nicolas - Roc-Pte',232
 23200,0,'St-Romuald - JND',232
+23301,0,'St-Nicolas',233
 23300,0,'St-Romuald - JND',233
 23500,0,'UQAR / Lévis Ctr',235
+23501,0,'Village (St-Nicolas)',235
+23600,0,'UQAR / Lévis Ctr',236
+23601,0,'Village (St-Nicolas)',236
 24100,0,'St-Romuald - JND',241
+24101,0,'St-Rédempteur',241
 24200,0,'St-Romuald - JND',242
+24201,0,'St-Rédempteur',242
+24501,0,'St-Rédempteur',245
 24500,0,'UQAR / Lévis Ctr',245
+24601,0,'St-Rédempteur',246
 24600,0,'UQAR / Lévis Ctr',246
+31101,0,'St-J-Chrysostome / Breakeyville',311
 31100,0,'St-Romuald - JND',311
+32501,0,'St-Romuald / Presqu''Île',325
 32500,0,'UQAR / Lévis Ctr',325
-34500,0,'UQAR / Lévis Ctr',345
+34501,0,'St-Romuald',345
+34500,0,'Vieux-Lévis',345
+35101,0,'Charny',351
 35100,0,'St-Romuald - JND',351
+35501,0,'Charny',355
 35500,0,'Vieux-Lévis',355
+37501,0,'St-J-Chrysostome',375
 37500,0,'UQAR / Lévis Ctr',375
+38101,0,'St-J-Chrysostome / Breakeyville',381
 38100,0,'St-Romuald - JND',381
+38501,0,'St-J-Chrysostome',385
 38500,0,'UQAR / Lévis Ctr',385
-38600,0,'UQAR / Lévis Ctr',386
+39101,0,'St-J-Chrysostome',391
 39100,0,'St-Romuald - JND',391
+39501,0,'St-J-Chrysostome',395
 39500,0,'UQAR / Lévis Ctr',395
 1001101,0,'Traverse / Hôtel-Dieu De Lévis / UQAR / Lauzon',10011
 5003401,0,'St-Romuald',50034
@@ -90,6 +125,8 @@
 2000000200,0,'Traverse',20000002
 2000001500,0,'Galeries Chagnon',20000015
 2000001501,0,'Pintendre',20000015
+2000002201,0,'Bernières (St-Nicolas) / PRB Des Rivières (Pte PM)',20000022
+2000002200,0,'PRB Des Rivières / Parc Ind De Bernières (Pte AM)',20000022
 2000003101,0,'Breakeyville / Concorde',20000031
 2000003300,0,'Breakeyville',20000033
 2000003301,0,'Vieux Chemin',20000033
