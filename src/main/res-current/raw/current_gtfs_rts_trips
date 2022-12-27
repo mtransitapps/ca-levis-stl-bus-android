@@ -61,10 +61,10 @@
 23200,0,'St-Romuald - JND',232
 23301,0,'St-Nicolas',233
 23300,0,'St-Romuald - JND',233
+23501,0,'St-Nicolas - Roc-Pte',235
 23500,0,'UQAR / Lévis Ctr',235
-23501,0,'Village (St-Nicolas)',235
+23601,0,'Presqu''Île / Village (St-Nicolas)',236
 23600,0,'UQAR / Lévis Ctr',236
-23601,0,'Village (St-Nicolas)',236
 24100,0,'St-Romuald - JND',241
 24101,0,'St-Rédempteur',241
 24200,0,'St-Romuald - JND',242
@@ -75,14 +75,14 @@
 24600,0,'UQAR / Lévis Ctr',246
 31101,0,'St-J-Chrysostome / Breakeyville',311
 31100,0,'St-Romuald - JND',311
-32501,0,'St-Romuald / Presqu''Île',325
-32500,0,'UQAR / Lévis Ctr',325
+32500,0,'Lévis Ctr',325
+32501,0,'St-Romuald',325
+34500,0,'Lévis Ctr',345
 34501,0,'St-Romuald',345
-34500,0,'Vieux-Lévis',345
 35101,0,'Charny',351
 35100,0,'St-Romuald - JND',351
 35501,0,'Charny',355
-35500,0,'Vieux-Lévis',355
+35500,0,'Lévis Ctr',355
 37501,0,'St-J-Chrysostome',375
 37500,0,'UQAR / Lévis Ctr',375
 38101,0,'St-J-Chrysostome / Breakeyville',381
@@ -99,7 +99,7 @@
 5003601,0,'Charny',50036
 5003600,0,'Ste-Foy Ctr',50036
 5003701,0,'St-J-Chrysostome',50037
-5003700,0,'Ste-Foy Ctr',50037
+5003700,0,'St-J-Chrysostome / Ste-Foy Ctr',50037
 5003801,0,'St-J-Chrysostome',50038
 5003800,0,'Ste-Foy Ctr',50038
 5004200,0,'Cégep Garneau',50042
