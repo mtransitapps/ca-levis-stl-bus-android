@@ -75,14 +75,14 @@
 24600,0,'UQAR / Lévis Ctr',246
 31101,0,'St-J-Chrysostome / Breakeyville',311
 31100,0,'St-Romuald - JND',311
-32500,0,'Lévis Ctr',325
-32501,0,'St-Romuald',325
-34500,0,'Lévis Ctr',345
-34501,0,'St-Romuald',345
+32500,0,'AM',325
+32501,0,'PM',325
+34500,0,'AM',345
+34501,0,'PM',345
 35101,0,'Charny',351
 35100,0,'St-Romuald - JND',351
-35501,0,'Charny',355
-35500,0,'Lévis Ctr',355
+35500,0,'AM',355
+35501,0,'PM',355
 37501,0,'St-J-Chrysostome',375
 37500,0,'UQAR / Lévis Ctr',375
 38101,0,'St-J-Chrysostome / Breakeyville',381
