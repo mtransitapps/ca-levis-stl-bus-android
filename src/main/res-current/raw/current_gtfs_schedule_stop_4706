@@ -1,31 +1,13 @@
 '1',3701,60120,0,'St-J-Chrysostome',2,2600,0,'St-J-Chrysostome',2,7610,0,'St-J-Chrysostome',2,3800,,'',2,10990,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,10400,0,'St-J-Chrysostome',2,9700,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,9900,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,15200,0,'St-J-Chrysostome',2,10600,0,'St-J-Chrysostome',2,10600,0,'St-J-Chrysostome',2,10500,0,'St-J-Chrysostome',2,9600,0,'St-J-Chrysostome',2,10100,0,'St-J-Chrysostome',2,9600,0,'St-J-Chrysostome',2,11200,0,'St-J-Chrysostome',2
 '2',3701,71320,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,9900,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11100,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10100,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,9800,0,'St-J-Chrysostome',2
 '3',3701,81320,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11400,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,9900,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11300,0,'St-J-Chrysostome',2
-'50',3701,60120,0,'St-J-Chrysostome',2,14010,,'',2,10990,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,10400,0,'St-J-Chrysostome',2,9700,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,9900,0,'St-J-Chrysostome',2,10200,0,'St-J-Chrysostome',2,15200,0,'St-J-Chrysostome',2,10600,0,'St-J-Chrysostome',2,10600,0,'St-J-Chrysostome',2,10500,0,'St-J-Chrysostome',2,9600,0,'St-J-Chrysostome',2,10100,0,'St-J-Chrysostome',2,9600,0,'St-J-Chrysostome',2,11200,0,'St-J-Chrysostome',2
-'52',3701,71320,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11400,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,9900,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11300,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,9900,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,9800,0,'St-J-Chrysostome',2
-'53',3701,81320,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11400,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,9900,0,'St-J-Chrysostome',2,10000,0,'St-J-Chrysostome',2,11300,0,'St-J-Chrysostome',2
 '1',3800,81120,,'',2,11100,,'',2,10400,,'',2,10200,,'',2,9700,,'',2,10200,,'',2,9900,,'',2,11000,,'',2,10500,,'',2,10800,,'',2,15100,,'',2,5400,,'',2,9600,,'',2,10100,,'',2,15500,,'',2
 '2',3800,74320,,'',2,10000,,'',2,10200,,'',2,10000,,'',2,10000,,'',2,11000,,'',2,10000,,'',2,10200,,'',2,10000,,'',2,10000,,'',2,9900,,'',2,10000,,'',2,15100,,'',2,9900,,'',2,10200,,'',2,10000,,'',2
 '3',3800,84320,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,11400,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,10200,,'',2,9700,,'',2,10000,,'',2,15300,,'',2
-'50',3800,81120,,'',2,11100,,'',2,10400,,'',2,10200,,'',2,9700,,'',2,10200,,'',2,9900,,'',2,11500,,'',2,10000,,'',2,10800,,'',2,15100,,'',2,5400,,'',2,9600,,'',2,10100,,'',2,15500,,'',2
-'52',3800,74320,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,11400,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,9900,,'',2,10000,,'',2,15300,,'',2,9900,,'',2,10000,,'',2,10000,,'',2
-'53',3800,84320,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,11400,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,10000,,'',2,9900,,'',2,10000,,'',2,15300,,'',2
 '14',31100,73830,,'',2
-'75',31100,73830,,'',2
 '13',37500,82710,,'',2
-'74',37500,82710,,'',2
 '14',38100,73840,,'',2
-'75',38100,73840,,'',2
 '13',38500,82800,,'',2
-'74',38500,82800,,'',2
 '14',39100,73140,,'',2
-'75',39100,73140,,'',2
 '13',39500,82710,,'',2
-'74',39500,82710,,'',2
-'50',5003700,63630,0,'St-J-Chrysostome',2,1590,0,'Ste-Foy Ctr',2,7410,0,'Ste-Foy Ctr',2
-'51',5003700,80430,0,'Ste-Foy Ctr',2,3190,0,'St-J-Chrysostome',2
-'51',5003701,163510,,'',2,10600,,'',2
-'51',5003801,170810,,'',2,9600,,'',2
-'80',5003800,65530,,'',2,7100,,'',2
 '12',905191700,72730,,'',2
-'51',905191700,72730,,'',2
