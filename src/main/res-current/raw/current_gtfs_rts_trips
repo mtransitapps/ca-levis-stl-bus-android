@@ -1,4 +1,4 @@
-1100,0,'Traverse / Lauzon / UQAR / Hôtel-Dieu De Lévis',11
+1100,0,'Traverse / Hôtel-Dieu De Lévis / Lauzon / UQAR',11
 1301,0,'St-David',13
 1300,0,'Traverse',13
 1501,0,'Pintendre',15
@@ -69,21 +69,21 @@
 24600,0,'UQAR / Lévis Ctr',246
 31101,0,'St-J-Chrysostome / Breakeyville',311
 31100,0,'St-Romuald - JND',311
-32500,0,'Lévis Ctr',325
 32501,0,'St-Romuald / St-Nicolas',325
-34500,0,'Lévis Ctr',345
+32500,0,'Vieux-Lévis',325
 34501,0,'St-Romuald',345
+34500,0,'Vieux-Lévis',345
 35101,0,'Charny',351
 35100,0,'St-Romuald - JND',351
-35500,0,'Lévis Ctr',355
 35501,0,'St-David / Charny',355
+35500,0,'Vieux-Lévis',355
 37501,0,'St-J-Chrysostome',375
 37500,0,'UQAR / Lévis Ctr',375
 38101,0,'St-J-Chrysostome / Breakeyville',381
 38100,0,'St-Romuald - JND',381
 38501,0,'St-J-Chrysostome',385
 38500,0,'UQAR / Lévis Ctr',385
-1001101,0,'Traverse / Hôtel-Dieu De Lévis / UQAR / Lauzon',10011
+1001101,0,'Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis',10011
 5003401,0,'St-Romuald',50034
 5003400,0,'Ste-Foy Ctr',50034
 5003601,0,'Charny',50036
