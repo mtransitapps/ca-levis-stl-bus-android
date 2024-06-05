@@ -38,24 +38,32 @@
 245,'245','UQAR / Lévis Ctr <> St-Rédempteur','7E4082',49715,3
 246,'246','UQAR / Lévis Ctr <> St-Rédempteur','7E4082',49716,3
 311,'311','St-Romuald - JND <> St-J-Chrysostome / Breakeyville','7E4082',50579,3
-325,'325','Vieux-Lévis <> St-Romuald / St-Nicolas','7E4082',50614,3
-345,'345','Vieux-Lévis <> St-Romuald','7E4082',50676,3
+325,'325','Lévis Ctr / Vieux-Lévis <> St-Romuald / St-Nicolas','7E4082',50614,3
+345,'345','Lévis Ctr / Vieux-Lévis <> St-Romuald','7E4082',50676,3
 351,'351','St-Romuald - JND <> Charny','7E4082',50703,3
-355,'355','Vieux-Lévis <> St-David / Charny','7E4082',50707,3
+355,'355','Lévis Ctr / Vieux-Lévis <> St-David / Charny','7E4082',50707,3
 375,'375','UQAR / Lévis Ctr <> St-J-Chrysostome','7E4082',50769,3
 381,'381','St-Romuald - JND <> St-J-Chrysostome / Breakeyville','7E4082',50796,3
 385,'385','UQAR / Lévis Ctr <> St-J-Chrysostome','7E4082',50800,3
 10011,'11A','Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis','0091B3',48673,3
+50023,'23E','Ste-Foy Ctr <> Village (St-Nicolas)','FFA400',49700,3
+50024,'24E','Ste-Foy Ctr <> St-Rédempteur','FFA400',49731,3
 50034,'34E','Ste-Foy Ctr <> St-Romuald','FFA400',50692,3
 50036,'36E','Ste-Foy Ctr <> Charny','FFA400',50754,3
-50037,'37E','St-J-Chrysostome / Ste-Foy Ctr <> St-J-Chrysostome','FFA400',50785,3
+50037,'37E','Ste-Foy Ctr <> St-J-Chrysostome','FFA400',50785,3
 50038,'38E','St-J-Chrysostome','FFA400',50816,3
 50042,'42E','Cégep Garneau <> Lévis Ctr / Galeries Chagnon','FFA400',51591,3
-50043,'43E','Cégep Garneau <> PRB Des Rivières / Concorde','FFA400',51622,3
+50043,'43E','Cégep Garneau <> Concorde / PRB Des Rivières','FFA400',51622,3
 9050317,'ECQ','Colline Parlementaire','FFA400',68467,3
 9051217,'ELQ','Lévis Ctr / Lauzon <> Colline Parlementaire','FFA400',68746,3
 9051517,'EOQ','PRB Des Rivières / St-Étienne-De-Lauzon <> Colline Parlementaire','FFA400',68839,3
 9051917,'ESQ','Colline Parlementaire','FFA400',68963,3
+9052117,'BSR','Festivent <> Aréna BSR','C00000',66081,3
+9052317,'FEQ','Lagueux','C00000',69490,3
+9052517,'HONC','Complexe 2 Glaces Honco <> Festivent','C00000',2223356,3
+9052717,'PAQ','Stat Desjardins <> Traverse','C00000',78976,3
+9052917,'RIVN','Rive-Nord - M-Rollet <> Festivent','C00000',2515759,3
+9053117,'UQAR','UQAR <> Festivent','C00000',2612173,3
 12000001,'L1','Lévisien 1','4EA685',2405,3
 12000002,'L2','Lévisien 2','1E4289',2406,3
 12000003,'L3','Lévisien 3','1E4289',2407,3
