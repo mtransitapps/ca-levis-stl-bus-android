@@ -1,11 +1,15 @@
 package org.mtransit.parser.ca_levis_stl_bus;
 
+import static org.mtransit.commons.RegexUtils.END;
+import static org.mtransit.commons.RegexUtils.oneOrMore;
 import static org.mtransit.commons.StringUtils.EMPTY;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.commons.Cleaner;
+import org.mtransit.commons.RegexUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
@@ -68,6 +72,18 @@ public class LevisSTLBusAgencyTools extends DefaultAgencyTools {
 			return 9_051_517L;
 		case "ESQ":
 			return 9_051_917L;
+		case "BSR":
+			return 9_052_117L;
+		case "FEQ":
+			return 9_052_317L;
+		case "HONC":
+			return 9_052_517L;
+		case "PAQ":
+			return 9_052_717L;
+		case "RIVN":
+			return 9_052_917L;
+		case "UQAR":
+			return 9_053_117L;
 		}
 		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
 	}
@@ -152,13 +168,13 @@ public class LevisSTLBusAgencyTools extends DefaultAgencyTools {
 
 	@NotNull
 	@Override
-	public String cleanDirectionHeadsign(boolean fromStopName, @NotNull String directionHeadSign) {
+	public String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
 		if (directionHeadSign.endsWith(" (AM)")) {
 			return "AM";
 		} else if (directionHeadSign.endsWith(" (PM)")) {
 			return "PM";
 		}
-		directionHeadSign = super.cleanDirectionHeadsign(fromStopName, directionHeadSign);
+		directionHeadSign = super.cleanDirectionHeadsign(directionId, fromStopName, directionHeadSign);
 		return directionHeadSign;
 	}
 
@@ -249,17 +265,20 @@ public class LevisSTLBusAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabelFR(gStopName);
 	}
 
-	@NotNull
-	@Override
-	public String getStopCode(@NotNull GStop gStop) {
-		return String.valueOf(getStopId(gStop)); // using stop ID as stop code
-	}
+	private static final Cleaner REMOVE_END_WITH_WORD_CAR = new Cleaner(
+			oneOrMore("[A-Z]") + END
+	);
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
-		String stopId = gStop.getStopId();
-		stopId = CleanUtils.cleanMergedID(stopId);
-		return Integer.parseInt(stopId);
+		try {
+			//noinspection deprecation
+			String stopId = gStop.getStopId();
+			stopId = CleanUtils.cleanMergedID(stopId);
+			stopId = REMOVE_END_WITH_WORD_CAR.clean(stopId);
+			return Integer.parseInt(stopId);
+		} catch (Exception e) {
+			throw new MTLog.Fatal(e, "Error while extracting stop ID from %s!", gStop.toStringPlus(true));
+		}
 	}
 }
