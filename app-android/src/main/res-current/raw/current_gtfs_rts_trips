@@ -20,39 +20,6 @@
 3900,0,'Concorde',39
 6500,0,'PRB Des Rivières',65
 6501,0,'St-Lambert',65
-11100,0,'Pte-Lévy / JND',111
-11500,0,'Vieux-Lévis',115
-11900,0,'École Pte-Lévy',119
-12500,0,'Vieux-Lévis',125
-12600,0,'Vieux-Lévis',126
-12700,0,'Vieux-Lévis',127
-12900,0,'École Pte-Lévy',129
-13100,0,'St-Romuald - JND',131
-13500,0,'Vieux-Lévis',135
-13600,0,'Vieux-Lévis',136
-13700,0,'École Pte-Lévy',137
-13900,0,'École Pte-Lévy',139
-15500,0,'Vieux-Lévis',155
-15600,0,'Vieux-Lévis',156
-15800,0,'École Pte-Lévy',158
-22100,0,'St-Romuald - JND',221
-22200,0,'St-Romuald - JND',222
-22500,0,'UQAR / Lévis Ctr',225
-23100,0,'St-Romuald - JND',231
-23200,0,'St-Romuald - JND',232
-23500,0,'UQAR / Lévis Ctr',235
-24100,0,'St-Romuald - JND',241
-24200,0,'St-Romuald - JND',242
-24500,0,'UQAR / Lévis Ctr',245
-24600,0,'UQAR / Lévis Ctr',246
-31100,0,'St-Romuald - JND',311
-32500,0,'Lévis Ctr',325
-34500,0,'Lévis Ctr',345
-35100,0,'St-Romuald - JND',351
-35500,0,'Lévis Ctr',355
-37500,0,'UQAR / Lévis Ctr',375
-38100,0,'St-Romuald - JND',381
-38500,0,'UQAR / Lévis Ctr',385
 1001101,0,'Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis',10011
 5002300,0,'Ste-Foy Ctr',50023
 5002301,0,'Village (St-Nicolas)',50023
@@ -67,12 +34,6 @@
 5003801,0,'St-J-Chrysostome',50038
 5004301,0,'Concorde / PRB Des Rivières',50043
 5004300,0,'Cégep Garneau',50043
-905031700,0,'Colline Parlementaire',9050317
-905121700,0,'Colline Parlementaire',9051217
-905121701,0,'Lévis Ctr / Lauzon',9051217
-905151700,0,'Colline Parlementaire',9051517
-905151701,0,'PRB Des Rivières / St-Étienne-De-Lauzon',9051517
-905191700,0,'Colline Parlementaire',9051917
 905211701,0,'Aréna BSR',9052117
 905211700,0,'Festivent',9052117
 905231700,0,'Lagueux',9052317
