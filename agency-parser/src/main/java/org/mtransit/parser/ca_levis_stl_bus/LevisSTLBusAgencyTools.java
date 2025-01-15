@@ -20,7 +20,6 @@ import java.util.Locale;
 import java.util.regex.Pattern;
 
 // https://www.stlevis.ca/stlevis/donnees-ouvertes
-// https://www.stlevis.ca/sites/default/files/public/assets/gtfs/transit/gtfs_stlevis.zip
 public class LevisSTLBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
@@ -271,7 +270,7 @@ public class LevisSTLBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		try {
-			//noinspection deprecation
+			//noinspection DiscouragedApi
 			String stopId = gStop.getStopId();
 			stopId = CleanUtils.cleanMergedID(stopId);
 			stopId = REMOVE_END_WITH_WORD_CAR.clean(stopId);
