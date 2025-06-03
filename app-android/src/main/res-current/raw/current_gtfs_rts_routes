@@ -28,6 +28,8 @@
 155,'155','Vieux-Lévis','7E4082',48785,3
 156,'156','Vieux-Lévis <> Pintendre','7E4082',48786,3
 158,'158','École Pte-Lévy <> Pintendre','7E4082',48788,3
+200,'200','Lévis Ctr <> Ste-Foy Ctr','FF7800',49586,3
+210,'210','Lévis Ctr <> St-Nicolas','FF7800',49617,3
 221,'221','St-Romuald - JND <> Bernières (St-Nicolas)','7E4082',49649,3
 222,'222','St-Romuald - JND <> Presqu''Île / St-Nicolas','7E4082',49650,3
 225,'225','UQAR / Lévis Ctr <> Bernières (St-Nicolas)','7E4082',49653,3
@@ -44,6 +46,7 @@
 351,'351','St-Romuald - JND <> Charny','7E4082',50703,3
 355,'355','Lévis Ctr <> Charny','7E4082',50707,3
 375,'375','UQAR / Lévis Ctr <> St-J-Chrysostome','7E4082',50769,3
+380,'380','Lévis Ctr <> St-J-Chrysostome','FF7800',50795,3
 381,'381','St-Romuald - JND <> St-J-Chrysostome / Breakeyville','7E4082',50796,3
 385,'385','UQAR / Lévis Ctr <> St-J-Chrysostome','7E4082',50800,3
 10011,'11A','Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis','0091B3',48673,3
@@ -55,6 +58,12 @@
 50038,'38E','St-J-Chrysostome','FFA400',50816,3
 50042,'42E','Cégep Garneau','FFA400',51591,3
 50043,'43E','Cégep Garneau <> Concorde / PRB Des Rivières','FFA400',51622,3
+9052117,'BSR','Festivent <> Aréna BSR','C00000',66081,3
+9052317,'FEQ','Lagueux','C00000',69490,3
+9052517,'HONC','Complexe 2 Glaces Honco <> Festivent','C00000',2223356,3
+9052717,'PAQ','Stat Desjardins <> Traverse','C00000',78976,3
+9052917,'RIVN','Rive-Nord - M-Rollet <> Festivent','C00000',2515759,3
+9053117,'UQAR','UQAR <> Festivent','C00000',2612173,3
 12000001,'L1','Lévisien 1','4EA685',2405,3
 12000002,'L2','Lévisien 2','1E4289',2406,3
 12000003,'L3','Lévisien 3','1E4289',2407,3

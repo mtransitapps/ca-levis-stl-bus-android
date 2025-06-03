@@ -49,6 +49,10 @@
 15600,0,'Vieux-Lévis',156
 15801,0,'Pintendre',158
 15800,0,'École Pte-Lévy',158
+20000,0,'Lévis Ctr',200
+20001,0,'Ste-Foy Ctr',200
+21000,0,'Lévis Ctr',210
+21001,0,'St-Nicolas',210
 22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
 22201,0,'Presqu''Île / St-Nicolas',222
@@ -81,6 +85,8 @@
 35500,0,'Lévis Ctr',355
 37501,0,'St-J-Chrysostome',375
 37500,0,'UQAR / Lévis Ctr',375
+38000,0,'Lévis Ctr',380
+38001,0,'St-J-Chrysostome',380
 38101,0,'St-J-Chrysostome / Breakeyville',381
 38100,0,'St-Romuald - JND',381
 38501,0,'St-J-Chrysostome',385
@@ -100,6 +106,17 @@
 5004200,0,'Cégep Garneau',50042
 5004301,0,'Concorde / PRB Des Rivières',50043
 5004300,0,'Cégep Garneau',50043
+905211701,0,'Aréna BSR',9052117
+905211700,0,'Festivent',9052117
+905231701,0,'Lagueux',9052317
+905251701,0,'Complexe 2 Glaces Honco',9052517
+905251700,0,'Festivent',9052517
+905271701,0,'Stat Desjardins',9052717
+905271700,0,'Traverse',9052717
+905291700,0,'Festivent',9052917
+905291701,0,'Rive-Nord - M-Rollet',9052917
+905311700,0,'Festivent',9053117
+905311701,0,'UQAR',9053117
 1200000101,0,'Lagueux',12000001
 1200000100,0,'Parc Ind De Lauzon',12000001
 1200000200,0,'Ste-Foy Ctr',12000002
