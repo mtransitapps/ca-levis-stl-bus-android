@@ -21,45 +21,79 @@
 6500,0,'PRB Des Rivières',65
 6501,0,'St-Lambert',65
 11100,0,'Pte-Lévy / JND',111
+11101,0,'St-Romuald / Lauzon',111
+11501,0,'Lauzon',115
 11500,0,'Vieux-Lévis',115
+11901,0,'Lauzon',119
 11900,0,'École Pte-Lévy',119
+12501,0,'Lauzon',125
 12500,0,'Vieux-Lévis',125
 12600,0,'Vieux-Lévis',126
+12601,0,'Étienne-Dallaire / Massenet',126
+12701,0,'Lauzon',127
 12700,0,'Vieux-Lévis',127
+12901,0,'Lauzon',129
 12900,0,'École Pte-Lévy',129
+13101,0,'St-David / Pintendre',131
 13100,0,'St-Romuald - JND',131
 13500,0,'Vieux-Lévis',135
+13601,0,'St-David',136
 13600,0,'Vieux-Lévis',136
 13700,0,'École Pte-Lévy',137
+13801,0,'St-David / Hadlow',138
 13800,0,'Vieux-Lévis',138
+13901,0,'St-David',139
 13900,0,'École Pte-Lévy',139
 15500,0,'Vieux-Lévis',155
+15601,0,'Pintendre',156
 15600,0,'Vieux-Lévis',156
+15801,0,'Pintendre',158
 15800,0,'École Pte-Lévy',158
 20000,0,'Lévis Ctr',200
 20001,0,'Ste-Foy Ctr',200
 21000,0,'Lévis Ctr',210
 21001,0,'St-Nicolas',210
+22101,0,'Bernières (St-Nicolas)',221
 22100,0,'St-Romuald - JND',221
+22201,0,'St-Nicolas - Roc-Pte',222
 22200,0,'St-Romuald - JND',222
+22501,0,'Bernières (St-Nicolas)',225
 22500,0,'UQAR / Lévis Ctr',225
 22901,0,'Bernières (St-Nicolas)',229
 22900,0,'ESLE / C Hosp P-Gilbert',229
 23100,0,'St-Romuald - JND',231
+23101,0,'Village (St-Nicolas)',231
+23201,0,'St-Nicolas - Villieu',232
 23200,0,'St-Romuald - JND',232
 23500,0,'UQAR / Lévis Ctr',235
+23501,0,'Village (St-Nicolas)',235
 24100,0,'St-Romuald - JND',241
+24101,0,'St-Rédempteur',241
 24200,0,'St-Romuald - JND',242
+24201,0,'St-Rédempteur',242
+24501,0,'St-Rédempteur',245
 24500,0,'UQAR / Lévis Ctr',245
+24601,0,'St-Rédempteur',246
+24600,0,'UQAR / Lévis Ctr',246
+31101,0,'St-J-Chrysostome / Breakeyville',311
 31100,0,'St-Romuald - JND',311
 32500,0,'Lévis Ctr',325
+32501,0,'St-Romuald / St-Nicolas',325
 34500,0,'Lévis Ctr',345
+34501,0,'St-Romuald',345
+35001,0,'Charny',350
+35000,0,'Lévis Ctr',350
+35101,0,'Charny',351
 35100,0,'St-Romuald - JND',351
+35501,0,'Charny',355
 35500,0,'Lévis Ctr',355
+37501,0,'St-J-Chrysostome',375
 37500,0,'UQAR / Lévis Ctr',375
 38000,0,'Lévis Ctr',380
 38001,0,'St-J-Chrysostome',380
+38101,0,'St-J-Chrysostome / Breakeyville',381
 38100,0,'St-Romuald - JND',381
+38501,0,'St-J-Chrysostome',385
 38500,0,'UQAR / Lévis Ctr',385
 1001101,0,'Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis',10011
 5002300,0,'Ste-Foy Ctr',50023
@@ -71,7 +105,7 @@
 5003601,0,'Charny',50036
 5003600,0,'Ste-Foy Ctr',50036
 5003701,0,'St-J-Chrysostome',50037
-5003700,0,'Ste-Foy Ctr',50037
+5003700,0,'St-J-Chrysostome / Ste-Foy Ctr',50037
 5003801,0,'St-J-Chrysostome',50038
 5004200,0,'Cégep Garneau',50042
 5004301,0,'Concorde / PRB Des Rivières',50043
@@ -87,6 +121,10 @@
 905291701,0,'Rive-Nord - M-Rollet',9052917
 905311700,0,'Festivent',9053117
 905311701,0,'UQAR',9053117
+905331701,0,'Sens Anti-Horaire',9053317
+905351701,0,'Lotbinière',9053517
+905351700,0,'Québec',9053517
+905371700,0,'Sens Horaire',9053717
 1200000101,0,'Lagueux',12000001
 1200000100,0,'Parc Ind De Lauzon',12000001
 1200000200,0,'Ste-Foy Ctr',12000002
