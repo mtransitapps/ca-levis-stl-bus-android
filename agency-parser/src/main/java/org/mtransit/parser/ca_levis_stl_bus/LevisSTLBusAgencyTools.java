@@ -37,11 +37,6 @@ public class LevisSTLBusAgencyTools extends DefaultAgencyTools {
 		return "STLévis";
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public Integer getAgencyRouteType() {
@@ -82,6 +77,12 @@ public class LevisSTLBusAgencyTools extends DefaultAgencyTools {
 			return 9_052_917L;
 		case "UQAR":
 			return 9_053_117L;
+		case "BLEU":
+			return 9_053_317L;
+		case "ORAN":
+			return 9_053_517L;
+		case "VERT":
+			return 9_053_717L;
 		}
 		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
 	}
