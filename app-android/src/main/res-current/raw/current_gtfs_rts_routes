@@ -5,7 +5,7 @@
 23,'23','Concorde <> Village (St-Nicolas)','0091B3',1601,3
 24,'24','PRB Des Rivières <> St-Rédempteur','4EA685',1602,3
 31,'31','Breakeyville / Concorde','0091B3',1630,3
-34,'34','Concorde <> St-Romuald','0091B3',1633,3
+34,'34','Concorde <> St-Romuald','4EA685',1633,3
 35,'35','Charny','0091B3',1634,3
 36,'36','Charny','0091B3',1635,3
 37,'37','Taniata / JND','0091B3',1636,3
@@ -60,9 +60,6 @@
 50038,'38E','St-J-Chrysostome','FFA400',50816,3
 50042,'42E','Cégep Garneau','FFA400',51591,3
 50043,'43E','Cégep Garneau <> Concorde / PRB Des Rivières','FFA400',51622,3
-9053317,'BLEU','Ligne Bleue','147BAB',2041466,3
-9053517,'ORAN','Ligne Orange','F39023',2434384,3
-9053717,'VERT','Ligne Verte','96C942',2630961,3
 12000001,'L1','Lévisien 1','4EA685',2405,3
 12000002,'L2','Lévisien 2','1E4289',2406,3
 12000003,'L3','Lévisien 3','1E4289',2407,3
