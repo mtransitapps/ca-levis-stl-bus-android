@@ -60,7 +60,7 @@
 22501,0,'Bernières (St-Nicolas)',225
 22500,0,'UQAR / Lévis Ctr',225
 22901,0,'Bernières (St-Nicolas)',229
-22900,0,'ESLE / C Hosp P-Gilbert',229
+22900,0,'ESLE',229
 23100,0,'St-Romuald - JND',231
 23101,0,'Village (St-Nicolas)',231
 23201,0,'St-Nicolas - Villieu',232
@@ -81,6 +81,7 @@
 32501,0,'St-Romuald / St-Nicolas',325
 34500,0,'Lévis Ctr',345
 34501,0,'St-Romuald',345
+35001,0,'Charny',350
 35000,0,'Lévis Ctr',350
 35101,0,'Charny',351
 35100,0,'St-Romuald - JND',351
@@ -104,7 +105,7 @@
 5003601,0,'Charny',50036
 5003600,0,'Ste-Foy Ctr',50036
 5003701,0,'St-J-Chrysostome',50037
-5003700,0,'St-J-Chrysostome / Ste-Foy Ctr',50037
+5003700,0,'Ste-Foy Ctr',50037
 5003801,0,'St-J-Chrysostome',50038
 5004200,0,'Cégep Garneau',50042
 5004301,0,'Concorde / PRB Des Rivières',50043
