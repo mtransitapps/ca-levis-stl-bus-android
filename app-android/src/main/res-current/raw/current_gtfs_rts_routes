@@ -1,14 +1,14 @@
 11,'11','Traverse / Hôtel-Dieu De Lévis / Lauzon / UQAR','0091B3',1568,3
 13,'13','Traverse <> St-David','4EA685',1570,3
-15,'15','Galeries Chagnon / Traverse / École Pte-Lévy <> Pintendre','0091B3',1572,3
-22,'22','Concorde / ESLE <> Bernières (St-Nicolas) / Plante','0091B3',1600,3
-23,'23','Concorde / ESLE <> Village (St-Nicolas)','0091B3',1601,3
+15,'15','Traverse <> Pintendre','0091B3',1572,3
+22,'22','Concorde <> Bernières (St-Nicolas)','0091B3',1600,3
+23,'23','Concorde <> Village (St-Nicolas)','0091B3',1601,3
 24,'24','PRB Des Rivières <> St-Rédempteur','4EA685',1602,3
 31,'31','Breakeyville / Concorde','0091B3',1630,3
-34,'34','Concorde / Sault / ESLE <> Concorde / St-Romuald','4EA685',1633,3
+34,'34','Concorde <> St-Romuald','4EA685',1633,3
 35,'35','Charny','0091B3',1634,3
 36,'36','Charny','0091B3',1635,3
-37,'37','St-J-Chrysostome / Taniata / JND','0091B3',1636,3
+37,'37','Taniata / JND','0091B3',1636,3
 38,'38','St-J-Chrysostome','0091B3',1637,3
 39,'39','Concorde <> Charny / St-J-Chrysostome','4EA685',1638,3
 65,'65','PRB Des Rivières <> St-Lambert','4EA685',1727,3
@@ -28,7 +28,7 @@
 155,'155','Vieux-Lévis','7E4082',48785,3
 156,'156','Vieux-Lévis <> Pintendre','7E4082',48786,3
 158,'158','École Pte-Lévy <> Pintendre','7E4082',48788,3
-200,'200','Lévis Ctr <> Concorde / Ste-Foy Ctr','FF7800',49586,3
+200,'200','Lévis Ctr <> Ste-Foy Ctr','FF7800',49586,3
 210,'210','Lévis Ctr <> St-Nicolas','FF7800',49617,3
 221,'221','St-Romuald - JND <> Bernières (St-Nicolas)','7E4082',49649,3
 222,'222','St-Romuald - JND <> St-Nicolas - Roc-Pte','7E4082',49650,3
@@ -51,7 +51,7 @@
 380,'380','Lévis Ctr <> St-J-Chrysostome','FF7800',50795,3
 381,'381','St-Romuald - JND <> St-J-Chrysostome / Breakeyville','7E4082',50796,3
 385,'385','UQAR / Lévis Ctr <> St-J-Chrysostome','7E4082',50800,3
-10011,'11A','Galeries Chagnon / Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis','0091B3',48673,3
+10011,'11A','Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis','0091B3',48673,3
 50023,'23E','Ste-Foy Ctr <> Village (St-Nicolas)','FFA400',49700,3
 50024,'24E','Ste-Foy Ctr <> St-Rédempteur','FFA400',49731,3
 50034,'34E','Ste-Foy Ctr <> St-Romuald','FFA400',50692,3
@@ -64,7 +64,7 @@
 12000002,'L2','Lévisien 2','1E4289',2406,3
 12000003,'L3','Lévisien 3','1E4289',2407,3
 12000004,'L4','Lévisien 4','4EA685',2408,3
-20000001,'T1','AM / Îles <> PM','A47400',2653,3
+20000001,'T1','AM <> PM','A47400',2653,3
 20000002,'T2','Riv Etchemin <> Traverse','A47400',2654,3
 20000015,'T15','Pintendre <> Galeries Chagnon','A47400',82296,3
 20000022,'T22','Bernières (St-Nicolas) / PRB Des Rivières (Pte PM) <> PRB Des Rivières / Parc Ind De Bernières (Pte AM)','A47400',82324,3
