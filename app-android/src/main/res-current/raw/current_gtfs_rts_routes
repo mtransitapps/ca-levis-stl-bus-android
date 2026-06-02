@@ -1,16 +1,17 @@
 11,'11','Traverse / Hôtel-Dieu De Lévis / Lauzon / UQAR','0091B3',1568,3
 13,'13','Traverse <> St-David','4EA685',1570,3
-15,'15','Traverse <> Pintendre','0091B3',1572,3
+15,'15','Traverse <> Parc Ind De Pintendre','0091B3',1572,3
+16,'16','Traverse <> Parc Ind De Pintendre','0091B3',1573,3
 22,'22','Concorde <> Bernières (St-Nicolas)','0091B3',1600,3
 23,'23','Concorde <> Village (St-Nicolas)','0091B3',1601,3
 24,'24','PRB Des Rivières <> St-Rédempteur','4EA685',1602,3
-31,'31','Breakeyville / Concorde','0091B3',1630,3
+31,'31','Breakeyville / Concorde / Breakeyville / Taniata','0091B3',1630,3
 34,'34','Concorde <> St-Romuald','4EA685',1633,3
 35,'35','Charny','0091B3',1634,3
 36,'36','Charny','0091B3',1635,3
 37,'37','Taniata / JND','0091B3',1636,3
 38,'38','St-J-Chrysostome','0091B3',1637,3
-39,'39','Concorde <> Charny / St-J-Chrysostome','4EA685',1638,3
+39,'39','Concorde / Taniata <> Charny / St-J-Chrysostome','4EA685',1638,3
 65,'65','PRB Des Rivières <> St-Lambert','4EA685',1727,3
 111,'111','Pte-Lévy / JND <> St-Romuald / Lauzon','7E4082',48657,3
 115,'115','Vieux-Lévis <> Lauzon','7E4082',48661,3
@@ -42,6 +43,7 @@
 245,'245','UQAR / Lévis Ctr <> St-Rédempteur','7E4082',49715,3
 246,'246','UQAR / Lévis Ctr <> St-Rédempteur','7E4082',49716,3
 311,'311','St-Romuald - JND <> St-J-Chrysostome / Breakeyville','7E4082',50579,3
+319,'319','Charny <> Breakeyville','0091B3',50587,3
 325,'325','Lévis Ctr <> St-Romuald / St-Nicolas','7E4082',50614,3
 345,'345','Lévis Ctr <> St-Romuald','7E4082',50676,3
 350,'350','Lévis Ctr <> Charny','FF7800',50702,3
@@ -51,6 +53,7 @@
 380,'380','Lévis Ctr <> St-J-Chrysostome','FF7800',50795,3
 381,'381','St-Romuald - JND <> St-J-Chrysostome / Breakeyville','7E4082',50796,3
 385,'385','UQAR / Lévis Ctr <> St-J-Chrysostome','7E4082',50800,3
+399,'399','Charny <> Taniata / Prairie','4EA685',50835,3
 10011,'11A','Traverse / UQAR / Lauzon / Hôtel-Dieu De Lévis','0091B3',48673,3
 50023,'23E','Ste-Foy Ctr <> Village (St-Nicolas)','FFA400',49700,3
 50024,'24E','Ste-Foy Ctr <> St-Rédempteur','FFA400',49731,3
@@ -60,6 +63,12 @@
 50038,'38E','St-J-Chrysostome','FFA400',50816,3
 50042,'42E','Cégep Garneau','FFA400',51591,3
 50043,'43E','Cégep Garneau <> Concorde / PRB Des Rivières','FFA400',51622,3
+9052117,'BSR','Festivent <> Aréna BSR','C00000',66081,3
+9052317,'FEQ','Lagueux','C00000',69490,3
+9052517,'HONC','Complexe 2 Glaces Honco <> Festivent','C00000',2223356,3
+9052717,'PAQ','École Pte-Lévy <> Traverse','C00000',78976,3
+9052917,'RIVN','Rive-Nord - M-Rollet <> Festivent','C00000',2515759,3
+9053117,'UQAR','UQAR <> Festivent','C00000',2612173,3
 12000001,'L1','Lévisien 1','4EA685',2405,3
 12000002,'L2','Lévisien 2','1E4289',2406,3
 12000003,'L3','Lévisien 3','1E4289',2407,3
@@ -68,7 +77,7 @@
 20000002,'T2','Riv Etchemin <> Traverse','A47400',2654,3
 20000015,'T15','Pintendre <> Galeries Chagnon','A47400',82296,3
 20000022,'T22','Bernières (St-Nicolas) / PRB Des Rivières (Pte PM) <> PRB Des Rivières / Parc Ind De Bernières (Pte AM)','A47400',82324,3
-20000031,'T31','Breakeyville / Concorde','A47400',82354,3
+20000031,'T31','Breakeyville / Concorde / Breakeyville / Taniata','A47400',82354,3
 20000034,'T34','St-Romuald <> Concorde','A47400',82357,3
 20000065,'T65','Parc / Éperviers <> Pont / Érables','A47400',82451,3
 20000066,'T66','St-Lambert <> Breakeyville','A47400',82452,3
