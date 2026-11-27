@@ -1,0 +1,72 @@
+11,'11','Lauzon / Lévis Centre','0091B3',1568,3
+13,'13','St-David','4EA685',1570,3
+15,'15','Pintendre','0091B3',1572,3
+16,'16','Pintendre','0091B3',1573,3
+22,'22','St-Nicolas - Bernières','0091B3',1600,3
+23,'23','St-Nicolas - Village','0091B3',1601,3
+24,'24','St-Rédempteur','4EA685',1602,3
+31,'31','Ste-Hélène-De-Breakeyville','0091B3',1630,3
+34,'34','St-Romuald','4EA685',1633,3
+35,'35','Charny Via De L''Eau-Vive','0091B3',1634,3
+36,'36','Charny Via Du C-Hospitalier','0091B3',1635,3
+37,'37','St-Jean-Chrysostome Via Taniata','0091B3',1636,3
+38,'38','St-Jean-Chrysostome Via Vanier','0091B3',1637,3
+39,'39','St-Jean-Chrysostome / Concorde','4EA685',1638,3
+65,'65','St-Lambert-De-Lauzon','4EA685',1727,3
+111,'111','Lauzon / Pointe-Lévy - Juvénat','7E4082',48657,3
+115,'115','Lauzon / Vieux-Lévis','7E4082',48661,3
+119,'119','Lauzon / Pointe-Lévy','7E4082',48665,3
+125,'125','Lauzon / Vieux-Lévis','7E4082',48692,3
+126,'126','Étienne-Dallaire / Vieux-Lévis','7E4082',48693,3
+127,'127','Lauzon / Vieux-Lévis','7E4082',48694,3
+129,'129','Lauzon / Pointe-Lévy','7E4082',48696,3
+131,'131','Pintendre - St-David / Juvénat','7E4082',48719,3
+135,'135','St-David / Vieux-Lévis','7E4082',48723,3
+136,'136','St-David / Vieux-Lévis','7E4082',48724,3
+137,'137','St-David / Pointe-Lévy','7E4082',48725,3
+138,'138','St-David / Vieux-Lévis','7E4082',48726,3
+139,'139','St-David / Pointe-Lévy','7E4082',48727,3
+155,'155','Pintendre / Vieux-Lévis','7E4082',48785,3
+156,'156','Pintendre / Vieux-Lévis','7E4082',48786,3
+158,'158','Pintendre / Pointe-Lévy','7E4082',48788,3
+200,'200','Lévis Centre / Ste-Foy Centre','FF7800',49586,3
+210,'210','Lévis Centre / St-Nicolas','FF7800',49617,3
+221,'221','St-Nicolas - Bernières / Juvénat','7E4082',49649,3
+222,'222','St-Nicolas - Roc-Pointe / Juvénat','7E4082',49650,3
+225,'225','St-Nicolas - Bernières / Lévis Centre','7E4082',49653,3
+229,'229','St-Nicolas - Bernières / ESLE','7E4082',49657,3
+231,'231','St-Nicolas - Village / Juvénat','7E4082',49680,3
+232,'232','St-Nicolas - Villieu / Juvénat','7E4082',49681,3
+235,'235','St-Nicolas - Village / Lévis Centre','7E4082',49684,3
+236,'236','St-Nicolas - Pl Normandie / Lévis Centre','7E4082',49685,3
+241,'241','St-Rédempteur / Juvénat','7E4082',49711,3
+242,'242','St-Rédempteur / Juvénat','7E4082',49712,3
+245,'245','St-Rédempteur / Lévis Centre','7E4082',49715,3
+311,'311','Breakeyville / Juvénat','7E4082',50579,3
+325,'325','St-Nicolas - Villieu / Lévis Centre','7E4082',50614,3
+345,'345','St-Romuald / Lévis Centre','7E4082',50676,3
+350,'350','Lévis Centre / Charny','FF7800',50702,3
+351,'351','Charny / Juvénat','7E4082',50703,3
+355,'355','Charny / Lévis Centre','7E4082',50707,3
+375,'375','St-Jean-Chrysostome / Lévis Centre','7E4082',50769,3
+380,'380','Lévis Centre / St-Jean-Chrysostome','FF7800',50795,3
+381,'381','Breakeyville / Juvénat','7E4082',50796,3
+385,'385','St-Jean-Chrysostome / Lévis Centre','7E4082',50800,3
+10011,'11A','Lévis Centre / Lauzon','0091B3',48673,3
+50023,'23E','St-Nicolas - Village / Ste-Foy Centre','FFA400',49700,3
+50024,'24E','St-Rédempteur / Ste-Foy Centre','FFA400',49731,3
+50034,'34E','St-Romuald / Ste-Foy Centre','FFA400',50692,3
+50036,'36E','Charny / Ste-Foy Centre','FFA400',50754,3
+50037,'37E','St-Jean-Chrysostome / Ste-Foy Centre','FFA400',50785,3
+50038,'38E','St-Jean-Chrysostome / Ste-Foy Centre','FFA400',50816,3
+12000001,'L1','Lévisien 1','4EA685',2405,3
+12000002,'L2','Lévisien 2','1E4289',2406,3
+12000003,'L3','Lévisien 3','1E4289',2407,3
+12000004,'L4','Lévisien 4','4EA685',2408,3
+20000001,'T1','Chemin Des Îles','A47400',2653,3
+20000002,'T2','Rue St-Laurent','A47400',2654,3
+20000015,'T15','Pintendre','A47400',82296,3
+20000022,'T22','St-Nicolas / Parc Ind De Bernières','A47400',82324,3
+20000031,'T31','Ste-Hélène-De-Breakeyville','A47400',82354,3
+20000034,'T34','St-Romuald','A47400',82357,3
+20000066,'T66','St-Lambert-De-Lauzon','A47400',82452,3
